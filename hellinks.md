@@ -17,7 +17,7 @@
 
 ---
 
-<p align = right>Инструкция установки. <a href = "./histori_git.md">[След.] >></a>
+<p align = right>Инструкция установки. <a href = "./instaling_git.md">[След.] >></a>
 
 ---
 
