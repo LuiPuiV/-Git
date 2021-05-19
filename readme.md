@@ -7,8 +7,9 @@
 
 ## <center>Содержание</center>
 1. [Что такое Git](./whatisgit.md)
-   1. [История происхождения Git](https://techrocks.ru/2019/02/19/git-origin-story/)
+   1. [Пред. история появления системы Git](https://techrocks.ru/2019/02/19/git-origin-story/)
    2. [Полезные ссылки](./hellinks.md)
+2. [Инструкция установки]() 
 
 
 ---
