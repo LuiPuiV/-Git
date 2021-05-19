@@ -91,8 +91,6 @@ git commit -m "Change main head"
 git push
 ```
 
-<p align = right>Создание репозитория на платформе Github.  <a href = "./creatrep.md">[След.] >></a>
-
 ---
 
 *<p align = "center">LICENSE:* [MIT](./licenseRus.md) [[eng](/license.md)]</p>
