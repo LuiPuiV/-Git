@@ -5,7 +5,7 @@
 
 ---
 
-<a href = "./histori_git.md"> << [Назад]</a> Инструкция установки.
+<a href = "./instaling.md"> << [Назад]</a> Инструкция установки.
 
 ---
 
@@ -91,7 +91,7 @@ git commit -m "Change main head"
 git push
 ```
 
-<p align = right>Содздание репозитория на платформе Github.  <a href = "./histori_git.md">[След.] >></a>
+<p align = right>Создание репозитория на платформе Github.  <a href = "./creatrep.md">[След.] >></a>
 
 ---
 
