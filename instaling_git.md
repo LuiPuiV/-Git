@@ -90,7 +90,7 @@
 
 ---
 
-<p align = right> Базовые команды Git Bash. <a href = "./git init.md">[След.] >></a></p>
+<p align = right> Базовые команды Git Bash. <a href = "./basic_command.md">[След.] >></a></p>
 
 ---
 

@@ -5,7 +5,7 @@
 
 ---
 
-<a href = "./whatisgit.md"><< [Назад]</a> Главная.
+<a href = "./whatisgit.md"><< [Назад]</a> Что такое Git.
 
 ---
 
