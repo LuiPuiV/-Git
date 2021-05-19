@@ -21,7 +21,7 @@
 
 ---
 
-<p align = right>Полезные ссылки. <a href = "https://techrocks.ru/2019/02/19/git-origin-story/">[След.] >></a>
+<p align = right>Полезные ссылки. <a href = "./hellinks.md">[След.] >></a>
 
 ---
 
