@@ -1,7 +1,5 @@
 # <p align = center>Пред. история появления системы Git</p>
 
----
-
 [![](./assets/Git-Logo-Black.png)](https://git-scm.com/images/logos/downloads/Git-Logo-Black.png)
 ###### <center>Git Logo by Jason Long, License: CC BY 3.0</center>
 
@@ -23,7 +21,7 @@
 
 ---
 
-<p align = right>История происхождения Git. <a href = "https://techrocks.ru/2019/02/19/git-origin-story/">[След.] >></a>
+<p align = right>Полезные ссылки. <a href = "https://techrocks.ru/2019/02/19/git-origin-story/">[След.] >></a>
 
 ---
 
